@@ -22,7 +22,7 @@ const Storage = () => {
       <div className='flex w-4/5 mx-auto py-4'>
         <div className='w-1/2 flex flex-col pt-4'>
           <div className='w-1/2'>
-            <Image src="/design.svg" alt="Imagen de diseño y desarrollo" width={550} height={550} />
+            <Image src="/alojamiento1.svg" alt="Imagen de diseño y desarrollo" width={550} height={550} />
           </div>
         </div>
 
@@ -35,15 +35,15 @@ const Storage = () => {
           <div className='buttons flex flex-col gap-8 mt-4'>
             {Array.from({ length: Math.ceil(storage.storage.length / 2) }, (_, i) => (
               <div key={i} className="button-group flex justify-between">
-                {storage.storage.slice(i * 2, i * 2 + 2).map((service, index) => {
-                  const IconComponent = iconComponents[service.icon];
+                {storage.storage.slice(i * 2, i * 2 + 2).map((storage, index) => {
+                  const IconComponent = iconComponents[storage.icon];
                   return (
                     <span
                       key={index}
                       className='bg-white text-black shadow-lg border-gray-100 rounded-lg hover:bg-orange-main hover:text-white px-4 py-2 rounded-lg flex w-64'
                     >
-                      <IconComponent className="mr-2 self-center"/>
-                      {service.name}
+                      <IconComponent className="mr-2 self-center" />
+                      {storage.name}
                     </span>
                   );
                 })}
@@ -51,7 +51,7 @@ const Storage = () => {
             ))}
           </div>
         </div>
-      
+
       </div>
     </div>
   )
