@@ -1,0 +1,8 @@
+<svg-animate trigger="hover">
+  <svg viewBox="0 0 106 16" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:anim="http://www.w3.org/2000/anim" anim="" anim:transform-origin="50% 50%" anim:duration="2" anim:ease="ease-out">
+    <g id="Loading Bar">
+      <path id="Line 1" d="M3 8.9104H103" stroke="#F87537" stroke-width="6" stroke-linecap="round" anim:opacity="0[0:2:1:ease-in-out]"></path>
+      <circle id="Ellipse 1" cx="52.5" cy="8.4104" r="7.5" fill="#F87537" anim:opacity="0[1.5:2:1:ease-in-out]" anim:scale="0.5[1.7:2:1:ease-in-out]"></circle>
+    </g>
+  </svg>
+</svg-animate>

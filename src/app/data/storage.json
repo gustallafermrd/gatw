@@ -1,0 +1,28 @@
+{
+  "storage": [
+    {
+      "name": "Bases de Datos en la Nube",
+      "icon": "FaDatabase"
+    },
+    {
+      "name": "Alojamiento Web",
+      "icon": "FaServer"
+    },
+    {
+      "name": "Alojamiento de Archivos",
+      "icon": "FaFolderOpen"
+    },
+    {
+      "name": "Respaldo de Datos",
+      "icon": "MdBackup"
+    },
+    {
+      "name": "Servidores de Correo",
+      "icon": "MdOutlineAlternateEmail"
+    },
+    {
+      "name": "Escritorio Remoto",
+      "icon": "VscRemoteExplorer"
+    }
+  ]
+}

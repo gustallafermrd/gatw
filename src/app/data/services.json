@@ -1,0 +1,28 @@
+{
+  "services": [
+    {
+      "name": "Diseño Responsivo",
+      "icon": "MdDevices"
+    },
+    {
+      "name": "Desarrollo en React",
+      "icon": "FaReact"
+    },
+    {
+      "name": "Diseño UI / UX",
+      "icon": "FaPen"
+    },
+    {
+      "name": "Desarrollo de E-commerce",
+      "icon": "FaShoppingCart"
+    },
+    {
+      "name": "Correos Empresariales",
+      "icon": "MdEmail"
+    },
+    {
+      "name": "Menus Digitales",
+      "icon": "MdMenuBook"
+    }
+  ]
+}

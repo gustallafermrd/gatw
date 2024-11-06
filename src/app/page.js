@@ -1,13 +1,14 @@
 import Header from "./components/header";
 import Hero from "./components/hero";
 import Design from "./components/design";
-
+import Storage from "./components/storage";
 export default function Home() {
   return (
     <div>
       <Header />
       <Hero />
       <Design />
+      <Storage />
     </div>
   );
 }
