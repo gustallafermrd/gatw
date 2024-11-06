@@ -14,7 +14,7 @@ const Experience = () => {
     <div className='w-full bg-grey-bg py-8'>
       <div className='intro text-center'>
         <h1 className='text-4xl font-bold bg-gradient-to-r from-orange-main to-burgundy bg-clip-text text-transparent pb-4'>Experiencia de Usuario</h1>
-        <LoadingBar className='mx-auto' />
+        <LoadingBar />
         <p className='text-center text-xl'>Estas tecnologías y prácticas ayudan a Gatwebs a ofrecer una experiencia de usuario superior, atraer y retener a clientes, y mejorar su posicionamiento en los resultados de búsqueda.</p>
       </div>
       <div className='flex w-4/5 mx-auto py-4 text-center'>
