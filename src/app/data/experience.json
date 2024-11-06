@@ -1,0 +1,34 @@
+{
+  "experience": [
+    {
+      "name": "Personalización",
+      "icon": "FaUser",
+      "description": "ofrecer contenido y experiencias personalizadas a cada usuario, basándose en sus preferencias y comportamientos."
+    },
+    {
+      "name": "Click to Call",
+      "icon": "FaUser",
+      "description": "Este sistema permite a los usuarios llamar directamente a sus clientes desde la propia página web."
+    },
+    {
+      "name": "Geolocalización",
+      "icon": "FaStar",
+      "description": "Nos ofrecer contenido y servicios localizados, adaptándose a los intereses y ubicaciones de los usuarios"
+    },
+    {
+      "name": "Integracion de Herramientas",
+      "icon": "FaStar",
+      "description": "Fusionar diferentes herramientas, como servicios de Google, redes sociales, permite aumentar la productividad y la eficacia en sus procesos"
+    },
+    {
+      "name": "Diseño Responsive",
+      "icon": "FaSearch",
+      "description": "Aseguran que la página web se adapte correctamente a diferentes dispositivos, mejorando la experiencia del usuario."
+    },
+    {
+      "name": "Accesibilidad",
+      "icon": "FaSearch",
+      "description": "Garantizar la accesibilidad de la página web para personas con discapacidades, como deficientes visuales, auditivas o motoras"
+    }
+  ]
+}

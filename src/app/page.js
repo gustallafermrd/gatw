@@ -2,6 +2,7 @@ import Header from "./components/header";
 import Hero from "./components/hero";
 import Design from "./components/design";
 import Storage from "./components/storage";
+import Experience from "./components/experience";
 export default function Home() {
   return (
     <div>
@@ -9,6 +10,7 @@ export default function Home() {
       <Hero />
       <Design />
       <Storage />
+      <Experience />
     </div>
   );
 }
