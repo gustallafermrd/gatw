@@ -43,7 +43,7 @@ const Design = () => {
           </div>
         </div>
 
-        <div className='w-1/2'>
+        <div className='w-1/2 justify-items-end'>
           <Image src="/design.svg" alt="Imagen de diseño y desarrollo" width={550} height={550} />
         </div>
       </div>
