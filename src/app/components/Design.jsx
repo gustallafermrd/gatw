@@ -18,7 +18,7 @@ const Design = () => {
     <div className='w-full bg-grey-bg py-8'>
       <div className='flex w-4/5 mx-auto py-4'>
         <div className='w-1/2 flex flex-col pt-4'>
-          <div className='intro'>
+          <div id="servicios" className='intro'>
             <h1 className='text-4xl font-bold bg-gradient-to-r from-orange-main to-burgundy bg-clip-text text-transparent pb-4'>Diseño y Desarrollo de Paginas Web</h1>
             <LoadingBar />
             <p>Nuestro equipo de diseñadores y desarrolladores web altamente capacitados crea sitios web atractivos y funcionales que se adaptan a tus necesidades y objetivos. Desde sitios web corporativos hasta tiendas en línea, nos aseguramos de que tu presencia en línea sea única y memorable.</p>

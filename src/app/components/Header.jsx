@@ -16,16 +16,16 @@ export default function Header() {
                 <a href="#" className="block py-2 pr-4 pl-3 text-orange-main rounded hover:bg-orange-main lg:bg-orange-main lg:text-white lg:p-2 ">Inicio</a>
               </li>
               <li>
-                <a href="#" className="block py-2 pr-4 pl-3 text-black border-b border-gray-100 hover:bg-orange-main lg:hover:bg-orange-main lg:border-0 lg:hover:text-white lg:rounded-lg lg:p-2">Servicios</a>
+                <a href="#servicios" className="block py-2 pr-4 pl-3 text-black border-b border-gray-100 hover:bg-orange-main lg:hover:bg-orange-main lg:border-0 lg:hover:text-white lg:rounded-lg lg:p-2">Servicios</a>
               </li>
               <li>
-                <a href="#" className="block py-2 pr-4 pl-3 text-black border-b border-gray-100 hover:bg-orange-main lg:hover:bg-orange-main lg:border-0 lg:hover:text-white lg:rounded-lg lg:p-2">Trabajos</a>
+                <a href="#trabajos" className="block py-2 pr-4 pl-3 text-black border-b border-gray-100 hover:bg-orange-main lg:hover:bg-orange-main lg:border-0 lg:hover:text-white lg:rounded-lg lg:p-2">Trabajos</a>
               </li>
               <li>
                 <a href="#" className="block py-2 pr-4 pl-3 text-black border-b border-gray-100 hover:bg-orange-main lg:hover:bg-orange-main lg:border-0 lg:hover:text-white lg:rounded-lg lg:p-2">Nosotros</a>
               </li>
               <li>
-                <a href="#" className="block py-2 pr-4 pl-3 text-black border-b border-gray-100 hover:bg-orange-main lg:hover:bg-orange-main lg:border-0 lg:hover:text-white lg:rounded-lg lg:p-2">Contactanos</a>
+                <a href="#contactanos" className="block py-2 pr-4 pl-3 text-black border-b border-gray-100 hover:bg-orange-main lg:hover:bg-orange-main lg:border-0 lg:hover:text-white lg:rounded-lg lg:p-2">Contactanos</a>
               </li>
             </ul>
           </div>
